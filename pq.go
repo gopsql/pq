@@ -4,8 +4,10 @@ import (
 	"database/sql"
 
 	"github.com/gopsql/standard"
-	_ "github.com/lib/pq"
+	"github.com/lib/pq"
 )
+
+var Array = pq.Array
 
 // MustOpen is like Open but panics if connect operation fails.
 func MustOpen(conn string) *standard.DB {
