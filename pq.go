@@ -9,6 +9,17 @@ import (
 
 var Array = pq.Array
 
+type (
+	BoolArray    = pq.BoolArray
+	ByteaArray   = pq.ByteaArray
+	Float64Array = pq.Float64Array
+	Float32Array = pq.Float32Array
+	GenericArray = pq.GenericArray
+	Int64Array   = pq.Int64Array
+	Int32Array   = pq.Int32Array
+	StringArray  = pq.StringArray
+)
+
 // MustOpen is like Open but panics if connect operation fails.
 func MustOpen(conn string) *standard.DB {
 	c, err := Open(conn)
