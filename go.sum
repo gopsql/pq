@@ -1,6 +1,6 @@
-github.com/gopsql/db v1.1.0 h1:NWV/GmbTpxbMlZ/jJM9dezWHP78mx1YEpm75OEr7CL0=
-github.com/gopsql/db v1.1.0/go.mod h1:plazrQDxoOfbv749q6AqZyR0wtPak19s4uw8J8pnMYA=
-github.com/gopsql/standard v1.1.0 h1:ImXSfTbSLuLnF+kFfhgvgYJn7tpYWHT8gHk1RvDCplY=
-github.com/gopsql/standard v1.1.0/go.mod h1:VEeP81KKDPXuhhN1KBnQ+f/e8wRnin0BHy1Pji6RAK0=
-github.com/lib/pq v1.10.0 h1:Zx5DJFEYQXio93kgXnQ09fXNiUKsqv4OUEu2UtGcB1E=
-github.com/lib/pq v1.10.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/gopsql/db v1.2.0 h1:aDcWmUh4qaHm+VByfbu4CPqYZ2vlFWqr0nndiHXc24g=
+github.com/gopsql/db v1.2.0/go.mod h1:plazrQDxoOfbv749q6AqZyR0wtPak19s4uw8J8pnMYA=
+github.com/gopsql/standard v1.2.0 h1:tSNlpsARgFZlvdCFovkXuKSQ59xBBFbwSeNaIsQ3vMU=
+github.com/gopsql/standard v1.2.0/go.mod h1:3IiQ+lKYKl2W+eia4lJR4hr5lab8qB4wA52fv6NfAVw=
+github.com/lib/pq v1.10.4 h1:SO9z7FRPzA03QhHKJrH5BXA6HU1rS4V2nIVrrNC1iYk=
+github.com/lib/pq v1.10.4/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
