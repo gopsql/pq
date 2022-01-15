@@ -38,5 +38,5 @@ func Open(conn string) (*standard.DB, error) {
 	if err := c.Ping(); err != nil {
 		return nil, err
 	}
-	return &standard.DB{c}, nil
+	return standard.NewDB("postgres", c), nil
 }
